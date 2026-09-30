@@ -1,3 +1,5 @@
+![Modes of Being: a calm sun and sage illustration](banner.svg)
+
 # Modes of Being
 
 A small daily practice: choose how you want to be today, then carry your own words through the day with quiet picture reminders.
