@@ -1,6 +1,6 @@
 # Modes of Being - daily practice
 
-Version: 0.5.0 (28 September 2026)
+Version: 0.5.1 (29 September 2026)
 
 ## TL;DR - for you
 
@@ -8,7 +8,16 @@ Modes of being are qualities you choose to bring to your day, such as breathing 
 
 Instinct is a personal assistant you can message. Copy this entire file into a conversation with your own Instinct and say: "Set this up for me." Instinct first asks whether you want Hebrew or English. Each morning it asks two questions, then shows a compact picture of your calendar day. Choose up to five modes and describe how you want them to show up. Instinct briefly reflects your choice back. Later it sends a few quiet picture reminders carrying only your chosen words. You can change, pause or stop the practice whenever you like.
 
-Already using an older version? Paste this whole file and say: "Update my Modes of Being practice to v0.5.0. Keep my own modes, language and schedule preferences unless I change them." See the update instructions below. This file describes a practice to configure; pasting it alone does not prove that reminders are scheduled. Ask Instinct to confirm what it actually set up.
+Already using an older version? Paste this whole file and say: "Update my Modes of Being practice to v0.5.1. Keep my own modes, language and schedule preferences unless I change them." See the update instructions below. This file describes a practice to configure; pasting it alone does not prove that reminders are scheduled. Ask Instinct to confirm what it actually set up.
+
+## List of modes of being
+
+The original Hebrew list ("דרכים מיטיביות להיות") is included in the package page as the supplied image, and can be opened here: https://files.instinct.com/file-01M3NMB6YJ4G6MB30S4KBN12AE . The following is an English translation, in the same column order from right to left and top to bottom. These are options, not a prescribed daily menu. Keep a person's own wording when they choose a mode.
+
+- Loving; authentic; courageous; clear; confident; compassionate; smiling; direct; honest; responsible.
+- Allowing; grateful; appreciative; respectful; containing; focused; funny; accepting; considerate; creative.
+- Interested; generous; enjoying; daring; breathing; relaxed; pleasant; gentle; alert; empty.
+- Simple; open; humble; lighthearted; attentive; calm; sensitive; happy; quiet.
 
 ## Instructions for Instinct
 
@@ -24,8 +33,9 @@ Aim to deliver at 05:57 in the person's local timezone, never after 06:00. A few
 
 ✨ 1. What mode/s of being do you choose today?
 2. How will this come into play?
+list of modes: https://files.instinct.com/file-01M3NMB6YJ4G6MB30S4KBN12AE
 
-Do not supply a menu of modes in the prompt. Attach or send the calendar snapshot AFTER the questions, not before. Show the person's current day's calendar as a compact, glanceable agenda image: dense but legible rows, grouped morning / afternoon / evening, with times and brief event names. Avoid a tall day grid, needless empty hours or unreadably small text. Respect private event details and the intended audience. If there are no events, show a simple empty-day state; if calendar access is missing, do not invent events. Do not delay the prompt past 06:00 to make the image.
+The list link is an unnumbered final line in that same questions message. Do not supply a menu of modes in the prompt. Attach or send the calendar snapshot AFTER the questions, not before. Show the person's current day's calendar as a compact, glanceable agenda image: dense but legible rows, grouped morning / afternoon / evening, with times and brief event names. Avoid a tall day grid, needless empty hours or unreadably small text. Respect private event details and the intended audience. If there are no events, show a simple empty-day state; if calendar access is missing, do not invent events. Do not delay the prompt past 06:00 to make the image.
 
 ### Read the answer and lock in
 
@@ -58,6 +68,6 @@ Use exactly one emoji per ritual message: the initial ✨. The older example wit
 
 ### Updates, status and control
 
-Use semantic versions. This is v0.5.0. On receiving a newer copy, compare the version with the installed practice; tell the person what would change and retain their personal modes, chosen language, local time, private boundaries and explicit exceptions. Replace old templates and future ping behavior without stacking duplicate schedules; preserve already delivered history. Specifically in this update: questions precede the compact agenda; lock-in uses bold MOB plus numbered modes and one short sentence; one reusable image replaces daily text pings, with text only as fallback. Ask about any conflict with the person's later instructions instead of silently overriding them. Confirm the resulting schedule and available capabilities, and do not claim features you cannot actually run.
+Use semantic versions. This is v0.5.1. On receiving a newer copy, compare the version with the installed practice; tell the person what would change and retain their personal modes, chosen language, local time, private boundaries and explicit exceptions. Replace old templates and future ping behavior without stacking duplicate schedules; preserve already delivered history. The v0.5.1 addition is the Hebrew list image and its English translation, with a link on the unnumbered last line of the morning questions message. Other behavior remains as in v0.5.0. Specifically in the prior update: questions precede the compact agenda; lock-in uses bold MOB plus numbered modes and one short sentence; one reusable image replaces daily text pings, with text only as fallback. Ask about any conflict with the person's later instructions instead of silently overriding them. Confirm the resulting schedule and available capabilities, and do not claim features you cannot actually run.
 
 The person can say "pause Modes of Being", "resume", "change my morning time", "change the pings", or "stop the practice". Respect those requests, update the actual future schedule and confirm the change. Avoid streaks, scoring, unsolicited tasks and commentary on whether they practiced well.
