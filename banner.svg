@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Modes of Being</title>
+  <desc id="desc">A calm cream banner with a rising sun, terracotta arcs and a sage sprig.</desc>
+  <rect width="1600" height="400" fill="#faf5eb"/>
+  <text x="85" y="235" fill="#583720" font-family="Georgia, 'Times New Roman', serif" font-size="100" letter-spacing="-3">Modes of Being</text>
+  <g fill="none" stroke="#c99570" stroke-width="3">
+    <path d="M1010 288 C1000 40 1435 40 1425 288"/>
+    <path d="M1053 288 C1050 96 1390 96 1385 288"/>
+    <path d="M1096 288 C1095 149 1347 149 1345 288"/>
+  </g>
+  <circle cx="1220" cy="253" r="77" fill="#dbb36a"/>
+  <path d="M941 321 Q1093 258 1209 300 Q1330 244 1517 321 Z" fill="#e8dcc7"/>
+  <path d="M1020 344 Q1160 283 1270 318 Q1395 299 1505 344 Z" fill="#f1e8d7"/>
+  <g stroke="#8c9475" stroke-width="3" fill="#a1a68a">
+    <path d="M1393 327 Q1431 244 1433 121" fill="none"/>
+    <path d="M1420 242 Q1365 225 1371 183 Q1410 192 1420 242 Z"/>
+    <path d="M1430 210 Q1469 162 1493 173 Q1487 212 1430 210 Z"/>
+    <path d="M1432 171 Q1400 134 1410 102 Q1440 121 1432 171 Z"/>
+    <path d="M1405 284 Q1463 241 1486 255 Q1469 288 1405 284 Z"/>
+  </g>
+</svg>
